@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The certainty of a future state, or, An occasional letter concerning apparitions by J. Roe.</title>
+            <author>Roe, J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57514</idno>
+            <idno type="STC">Wing R1774</idno>
+            <idno type="STC">ESTC R27562</idno>
+            <idno type="EEBO-CITATION">09955726</idno>
+            <idno type="OCLC">ocm 09955726</idno>
+            <idno type="VID">44392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1366:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The certainty of a future state, or, An occasional letter concerning apparitions by J. Roe.</title>
+                  <author>Roe, J.</author>
+               </titleStmt>
+               <extent>[6], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Wild,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Future life.</term>
+               <term>Apparitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:44392:1"/>
+            <p>THE CERTAINTY Of A FUTURE STATE:</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:44392:2" rendition="simple:additions"/>
+            <pb facs="tcp:44392:2"/>
+            <p>THE CERTAINTY Of A FUTURE STATE: OR, AN OCCASIONAL LETTER CONCERNING APPARITIONS.</p>
+            <p>By <hi>J. Roe,</hi> A. M. And Chaplain to the Right Honourable <hi>Charles</hi> Earl of <hi>Burlington.</hi>
+            </p>
+            <q>
+               <p>If they hear not <hi>Moſes</hi> and the Prophets, neither will they be perſuaded if one roſe from the Dead,</p>
+               <bibl>
+                  <hi>Luke 16.31.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Wild,</hi> at the Sign of the <hi>Elephant,</hi> at Charing-Croſs, MDCXCVIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44392:3"/>
+            <pb facs="tcp:44392:3"/>
+            <head>To the Right Honourable <hi>Charles Boyle,</hi> Baron <hi>Clifford</hi> of <hi>Lans<g ref="char:EOLhyphen"/>brow,</hi> and Earl of <hi>Burlington,</hi> Baron of <hi>Youghall,</hi> and <hi>Bandon,</hi> Viſcount <hi>Kynalmeaky</hi> and <hi>Dongarvan,</hi> and Earl of <hi>Cork,</hi> in the Kingdom of <hi>Ireland;</hi> Chief Governour of the County of <hi>Cork,</hi> and of the City and County of the City of <hi>Cork,</hi> Lord High Treaſu<g ref="char:EOLhyphen"/>rer of <hi>Ireland;</hi> Lord High Steward of the <hi>Royalty</hi> of <hi>Knaesbrough</hi> in the County of <hi>York,</hi> and one of the Gentle<g ref="char:EOLhyphen"/>men of His Majeſty's Bed-Chamber.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT is not with any Deſign to In<g ref="char:EOLhyphen"/>form <hi>Your Lordſhips</hi> Judgment, by any thing that can be met with in ſo mean a Diſcourſe, that I am in<g ref="char:EOLhyphen"/>duced
+<pb facs="tcp:44392:4" rendition="simple:additions"/>to lay it at <hi>Your Lordſhips</hi> Feet: But being Compoſed under <hi>Your Lordſhips</hi> Roof, it Claims a Natural kind of Right, of coming under <hi>Your Lordſhips</hi> Protection.</p>
+            <p>Things of little worth receive a Va<g ref="char:EOLhyphen"/>lue when they are made the Offerings of Reſpect and Gratitude; and this I am ohlig'd to Acknowledge upon the account of thoſe Remarkable Inſtances of Generoſity which I have received, (not only from <hi>Your Lordſhip</hi>) but from Your truly Honourable and good Lady, both before, and ſince I had the Honour of being Entertain'd as <hi>Your Lordſhips</hi> Chaplain; which I needs muſt own with all that deference which is juſtly ow<g ref="char:EOLhyphen"/>ing to <hi>Your Lordſhips</hi> Eminent Qua<g ref="char:EOLhyphen"/>lity, and Perſonal Accompliſhments.</p>
+            <pb facs="tcp:44392:4"/>
+            <p>It is <hi>Your Lordſhips</hi> Happineſs to receive the Extraordinary Bleſſings of Providence, without any Alteration of Temper, which can only be Attributed to a peculiar Greatneſs of Spirit, which the World is fully convincd of, and of which <hi>Your Lordſhips</hi> Family in all degrees are particularly ſenſible.</p>
+            <p>It will be a difficult thing for Poſte<g ref="char:EOLhyphen"/>rity, rightly to diſtinguiſh between thoſe who have deſerv'd Well, or Ill; ſince ſome have been ſo averſe to Truth, that they have ſupplyd what has been really wanting in due Merit, by their many Flattering and Exceſſive Commenda<g ref="char:EOLhyphen"/>tions.</p>
+            <p>But I need not take ſuch Meaſures with Your Lordſhip, whoſe Accom<g ref="char:EOLhyphen"/>pliſhments
+<pb facs="tcp:44392:5"/>ate ſo Signal, that they render <hi>Your Lordſhip,</hi> (in the Opinion of all that know you) one of the greateſt Orna<g ref="char:EOLhyphen"/>ments of the Age we live in.</p>
+            <p>That <hi>Your Lordſhip</hi> may be truly thankful to <hi>Almighty God,</hi> for ſo Great Endowments, that <hi>Your Lord<g ref="char:EOLhyphen"/>ſhiy</hi> may live <hi>Many</hi> and <hi>Many Years</hi> to make a Right and Good <g ref="char:V">Ʋ</g>ſe of them in this World, and be Rewarded for Well<g ref="char:EOLhyphen"/>doing in the Next; is and always ſhall be the hearty Prayers of,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Lordſhips Moſt Obedient Servant and Chaplain,</hi> I. Roe.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:44392:5" rendition="simple:additions"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THe following Letter was not Writ out of a deſire to ap<g ref="char:EOLhyphen"/>pear in <hi>Print,</hi> nor from a Principle of too nicely Enquiring into the Judgments and Opinions of other Men, but to gratifie the Requeſts of ſome, whom I could not modeſtly refuſe: If it may any ways Contri<g ref="char:EOLhyphen"/>bute to Promote the Dignity and
+<pb facs="tcp:44392:6"/>Sufficiency of the Holy Scriptures, or prove the Certainty of a <hi>Future State,</hi> againſt the <hi>Scepticks</hi> of the Age, with<g ref="char:EOLhyphen"/>out the Teſtimony of <hi>Apparitions,</hi> I have my chief Aim.</p>
+            <closer>
+               <salute>Farwell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:44392:6" rendition="simple:additions"/>
+            <head>THE CERTAINTY Of A FUTURE STATE: OR, An Occaſional LETTER Concerning APPARITIONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have often thought (ſince our laſt meet<g ref="char:EOLhyphen"/>ing) of the ſtrange account you gave me of the <hi>Apparition</hi> of <hi>G. S.</hi> to <hi>W. D.</hi> and likewiſe of the dreadful Conſequences that have attended ſome Perſons, who have
+<pb n="2" facs="tcp:44392:7" rendition="simple:additions"/>entertain'd too credulous a Belief of them; inſomuch that to this very Day too many are grown to that height of Impiety, that they will not be perſwaded of any <hi>Future State,</hi> unleſs ſome one riſe from the Dead to make proof of it. As you were pleaſed to be very free with me, I ſhall take the ſame Liberty; and muſt beg pardon, if I cannot condeſcend ſo far as to be of your Opinion.</p>
+            <p>In the firſt place then I ſhall give you my own Notion of an <hi>Apparition.</hi>
+            </p>
+            <p n="2">
+               <hi>2dly.</hi> The Reaſons why I cannot believe any thing of them.</p>
+            <p>The Word <hi>Apparition</hi> is uſually taken to ſignifie no more then the Species or Reſem<g ref="char:EOLhyphen"/>blance of a Deceaſed Perſon; and that there are no ſuch <hi>Apparitions</hi> (whatever ſome may pretend) I am very apt to believe upon theſe three accounts.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe it is a Suppoſition ſo far from being countenanced, that it ſeems di<g ref="char:EOLhyphen"/>rectly
+<pb n="3" facs="tcp:44392:7"/>contrary to the ſenſe of the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p n="2">
+               <hi>2dly.</hi> Becauſe it is a Suppoſition altogether uſeleſs and unneceſſary.</p>
+            <p n="3">
+               <hi>3dly.</hi> Becauſe it ſeems to be inconſiſtent with common Reaſon.</p>
+            <p>I would not be thought to queſtion, much leſs to deny that that there are <hi>Spi<g ref="char:EOLhyphen"/>rits,</hi> neither will I preſume to limit the Wiſ<g ref="char:EOLhyphen"/>dom and Power of Almighty God: But as for the <hi>Apparitions</hi> of Deceaſed Perſons ſo frequently Diſcourſed of in the World, I believe there is nothing in them. The Holy Scriptures in my opinion are ſo far from giving us the leaſt encouragement to expect an <hi>Apparition</hi> upon any account what<g ref="char:EOLhyphen"/>ever; that God himſelf has ſtrictly forbid us to apply our ſelves unto, or have any manner of intercourſe with the Dead, <hi>Iſaiah</hi> 8.19. And altogether <hi>as ſtrict is</hi> the prohi<g ref="char:EOLhyphen"/>bition given by <hi>Moſes,</hi> Deut. 18.11. <hi>there ſhall not be found among you any one that is a Charmer, Conſulter with Familiar Spirits, or a
+<pb n="4" facs="tcp:44392:8"/>Necromancer, for every one that doth theſe things is an abomination to the Lord.</hi>
+            </p>
+            <p>But beſides th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and ſuch like Prohibi<g ref="char:EOLhyphen"/>tions, the Holy Scriptures plainly do aſſure us, that the Body of Man after Death re<g ref="char:EOLhyphen"/>turns to the Duſt, and the <hi>Spirit i. e.</hi> the Soul unto God that gave it, <hi>i. e.</hi> to be di<g ref="char:EOLhyphen"/>ſpoſed and determined by him to a <hi>fixt Station,</hi> either of Happineſs or Miſery. This is evident from the Account we have of <hi>Dives</hi> and <hi>Lazarus;</hi> there being ſo vaſt a Gulf between them, <hi>i. e.</hi> an irreverſible De<g ref="char:EOLhyphen"/>cree (by the wife Order and Appointment of God) paſſed upon them; inſomuch that as one obſerves it is impoſſible for all the Saints in Heaven to obtain any manner of Releaſe for them,<note place="margin">Dr. <hi>Hammond;</hi> in his Annotations on <hi>Luke 16.</hi>
+               </note> and altogether as impoſſible for themſelves to be one Minute out of that State.</p>
+            <p>Now ſince it appears Demonſtrable that the <hi>Souls</hi> of the Righteous are <hi>confined</hi> to a State of Happineſs after Death (where they are to <hi>continue</hi> and <hi>remain</hi> till the
+<pb n="5" facs="tcp:44392:8"/>Day of the Reſurrection) and this by the ſpecial deſignation and appointment of God; then it muſt neceſſarily be ſuppoſed, that the <hi>Souls</hi> of the Wicked are <hi>cloſely con<g ref="char:EOLhyphen"/>fined</hi> by the ſame appointment to a <hi>State of Miſery and Horror,</hi> where they muſt neceſſarily and unavoidably <hi>continue</hi> till they receive the final Sentence. And if both the <hi>Souls</hi> of the Righteous and the <hi>Souls</hi> of the Wicked are reſpectively De<g ref="char:EOLhyphen"/>termined to their <hi>ſeveral States,</hi> and have their <hi>bounds</hi> fixt by the poſitive Order and Appointment of Almighty God; if the Bo<g ref="char:EOLhyphen"/>dy turns to Duſt (as we daily ſee it does) and if the <hi>Soul</hi> is confined to a <hi>certain Station</hi> either of Happineſs or Miſery from whence it cannot make any eſcape, (all which is clearly intimated in Scripture) then how is it likely there ſhould be any ſuch thing as the <hi>Apparition</hi> or real Repreſentation of a Deceaſed Perſon.</p>
+            <p>It is Gods Prerogative to be the Crea<g ref="char:EOLhyphen"/>tor of Mankind, and 'tis. God only that can give him Life and Being, and if ſo, call we think it to be in the power of Duſt,
+<pb n="6" facs="tcp:44392:9"/>Corruption, or any other created Being whatever, either to <hi>
+                  <g ref="char:V">Ʋ</g>nite</hi> or <hi>Animate</hi> that ſame Body and Soul, which Death has deprived both of Life and Being upon Earth.</p>
+            <p>There have been ſome its true who have maintained the contrary,<note place="margin">Dr. <hi>Henry Moor.</hi> Mr. <hi>Glanvil</hi>'s Sadduciſmus Tri<g ref="char:EOLhyphen"/>umphatus.</note> who poſitively affirm that departed Souls have a care and regard to their fellow Souls upon Earth,<note place="margin">See Dr. <hi>Moor</hi>'s Letter to Mr. <hi>Glan<g ref="char:EOLhyphen"/>vil.</hi>
+               </note> becauſe a Soul appeared to St. <hi>Stephen,</hi> when ſtoned, and to St. <hi>Paul</hi> be<g ref="char:EOLhyphen"/>fore his Converſion. I ſhall not trouble you to ſhew what a forced Inference this is; the Scriptures only mention Angels do<g ref="char:EOLhyphen"/>ing ſo, which I am far from queſtioning; but yet I think there is ſome difference between an Angel and the Soul of Man, o<g ref="char:EOLhyphen"/>therwiſe the Holy <hi>David</hi> needed not to have told us <hi>that Man was made low<g ref="char:EOLhyphen"/>er then the Angels,</hi> and <hi>Tertullian</hi> likewiſe, <hi>de anima, to have</hi> defined the Angels, (<hi>evo<g ref="char:EOLhyphen"/>catores animarum,</hi> i. e. the Meſſengers of God, which command the Souls out of their Bodies: And whoſe buſineſs <hi>as that
+<pb n="7" facs="tcp:44392:9" rendition="simple:additions"/>Father intimates,</hi> it is to Conduct and ſhew them whereunto they are deſigned after Death.</p>
+            <p>If any reply that an <hi>Apparition</hi> may be, tho' not of the <hi>Body</hi> or <hi>Soul</hi> of any De<g ref="char:EOLhyphen"/>ceaſed Perſon, I ſhall Anſwer this in its proper place, where I am to ſhew the incon<g ref="char:EOLhyphen"/>ſiſtency of ſuch a Suppoſition with com<g ref="char:EOLhyphen"/>mon Reaſon.</p>
+            <p>At preſent I muſt confeſs, Almighty God can do whatſoever pleaſes him both in Heaven and in Earth, in the Sea, and in all Deep Places, inſomuch that every particle of our Bodies, every Duſt and Atome that belongs to us is known to him, for <hi>he who numbers the very Sands of the Sea, and the very Hairs of our Heads,</hi> muſt needs keep an account of all the ſcatter'd Bones, ſee into all the Graves and Tombs, ſearch all the Repoſitories of the Earth, and know what Duſt belongs to each Body, what Bo<g ref="char:EOLhyphen"/>dy to each Soul, and by what ways and means, as at the firſt Creation, thoſe ſcat<g ref="char:EOLhyphen"/>ter'd Particles ſhould be again united, and
+<pb n="8" facs="tcp:44392:10"/>the ruined Fabrick of Man's Body once more Compoſed.</p>
+            <p>But to Unite a dead Carkaſs to a living Soul, or to permit and ſuffer a <hi>true and real Reſemblance thereof</hi> to be acted by any o<g ref="char:EOLhyphen"/>ther, and all this only to make a ſlight ſhew and appearance for ſome little time, either only to be the Meſſengers of God's Will, or a Terror to the Living, ſeems al<g ref="char:EOLhyphen"/>together inconſiſtent with thoſe Methods of Divine Revelation, which God has been al<g ref="char:EOLhyphen"/>ready pleaſed to favour us with.</p>
+            <p>The Queſtion whether <hi>the Souls of Men departed</hi> do appear to thoſe who remain a<g ref="char:EOLhyphen"/>live, is decided by moſt, both Antient and Modern Writers negatively; and they who are for the Affirmitive Part, can reſolve it no other way but this, that when ſuch <hi>Ap<g ref="char:EOLhyphen"/>paritions</hi> are, <hi>'tis only by ſpecial Diſpenſation;</hi> thus at our bleſſed Saviours Transfiguration, there appeared <hi>Moſes</hi> and <hi>Elias,</hi> and like<g ref="char:EOLhyphen"/>wiſe at his Crucifixtion <hi>the Graves were o<g ref="char:EOLhyphen"/>pened, and many Bodies of Saints which ſlept aroſe.</hi>
+            </p>
+            <pb n="9" facs="tcp:44392:10"/>
+            <p>But now the caſe is otherwiſe, for ſince Miracles are ceaſed, and the Chriſtian Diſpen<g ref="char:EOLhyphen"/>ſation is very ſufficiently confirmed to us; there is not one Inſtance in the whole Bi<g ref="char:EOLhyphen"/>ble to encourage us to expect an <hi>Appari<g ref="char:EOLhyphen"/>tion</hi> in theſe times; but on the contrary, there is nothing more uſual with God then to fruſtrate and diſappoint the Expectations all ſuch as will not acquieſce in the ordinary Diſpenſation of his Will.</p>
+            <p>To ſuppoſe therefore that this Courſe of Conſulting with the <hi>Dead</hi> were not Prohi<g ref="char:EOLhyphen"/>bited (tho' you have ſeen it is) and to ſuppoſe yet farther that it is a very likely and probable way of ſucceeding in what may be deſign'd thereby; yet this muſt be granted of neceſſity, that 'tis not the ordi<g ref="char:EOLhyphen"/>nary Courſe which God has appointed, and therefore cannot be depended on as likely to become ſucceſsful unto any.</p>
+            <p>The Phariſees we know deſired a Sign from our Bleſſed Saviour to Confirm his Miſſion and Doctrine to them, they were not contented with thoſe won<g ref="char:EOLhyphen"/>derful
+<pb n="10" facs="tcp:44392:11"/>Miracles that he wrought amongſt them; and which were then (as I may ſay) his ordinary means to Atteſt his Divinity, and Convince the World of their Unbelief; nothing would do with them but a <hi>Sign</hi> from Heaven; and no other Sign then ſuch as was given at the firſt promulgation of the Law: But the vanity of all this our Saviour plainly diſcovers, and ſeverely re<g ref="char:EOLhyphen"/>bukes in theſe words, <hi>there ſhall no Sign be given.</hi>
+            </p>
+            <p>Thus when Men preſume to Capitulate as it were with Almighty God, as to the enforcing the Duties of Faith and Obedi<g ref="char:EOLhyphen"/>ence upon them (as the chief Prieſts and Elders did with our Bleſſed Saviour at his Crucifixion, namely that if he would come down from the Croſs then they would be<g ref="char:EOLhyphen"/>lieve him.) I ſay, when Men begin to queſtion the Power of God, and the Au<g ref="char:EOLhyphen"/>thority of his Word, and reſolve neither to believe in him, nor obey him, unleſs he will condeſcend to let them have ſuch <hi>Signs</hi> as may anſwer and gratifie their fooliſh ex<g ref="char:EOLhyphen"/>pectations and unreaſonable Curioſities;
+<pb n="11" facs="tcp:44392:11"/>when they will not believe there <hi>is a Fu<g ref="char:EOLhyphen"/>ture State</hi> of Puniſhment prepared for the Wicked without an <hi>Apparition</hi> to confirm the truth of it; 'tis not only uſual, but juſt with God to fruſtrate and baffle them in ſuch unreaſonable Propoſals.</p>
+            <p n="2">
+               <hi>2dly,</hi> But ſuppoſing God ſhould permit and ſuffer <hi>Apparitions</hi> to wander up and down and haunt his Servants upon Earth; yet what end and purpoſe can we imagine there ſhould be in it? Can it any ways tend to promote the Honour and Glory of Almighty God? The Pſalmiſt expreſly tells us, <hi>that the Dead praiſe him not, neither they that go down into ſilence?</hi> Or can it anſwer any other of the Deſigns of his wiſe Pro<g ref="char:EOLhyphen"/>vidence in governing the Word? Or in the leaſt Contribute to the Reformation of Mankind?</p>
+            <p>Some perhaps may object and ſay, why may it not conſiſt with Gods Wiſdom to ſend <hi>an Apparition</hi> to make a Diſcovery of ſome ſtrange <hi>Murder</hi> which may have been concealed for ſome time.</p>
+            <pb n="12" facs="tcp:44392:12"/>
+            <p>But in this it may be anſwered, that Almighty God has many extraordinary ways to make ſuch Diſcoveries without an <hi>Apparition,</hi> whereof we have many Inſtan<g ref="char:EOLhyphen"/>ces, as well from Hiſtory, as our own Ex<g ref="char:EOLhyphen"/>perience; for if the Heavens above, the Earth beneath, and every thing moving therein are the Work of Gods Hands, and ſubſervient to his wiſe Providence in go<g ref="char:EOLhyphen"/>verning the World; what need of an <hi>Ap<g ref="char:EOLhyphen"/>parition</hi> to make ſuch Diſcoveries, Since they may be done well enough without it, and by ſuch ways and means as very well conſiſt with his other Methods of Admini<g ref="char:EOLhyphen"/>ſtrations here on Earth.</p>
+            <p>And if an <hi>Apparition</hi> cannot anſwer any of the Deſigns of Gods wiſe Providence in governing the World, it may be very ea<g ref="char:EOLhyphen"/>ſily prov'd that they cannot in the leaſt Contribute to the Reformation of Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>For to ſuppoſe that an <hi>Apparition or the Ghoſt of a Deceaſed Perſon</hi> could have the liberty of coming into the World, and
+<pb n="13" facs="tcp:44392:12" rendition="simple:additions"/>might be able to give us Topographical Deſcription of the <hi>Future State</hi> of <hi>Puniſh<g ref="char:EOLhyphen"/>ment;</hi> yet this Deſcription could not any ways exceed the Diſcoveries we have alrea<g ref="char:EOLhyphen"/>dy made to us in the Holy Scriptures. There we are informed of a <hi>devouring Fire and Everlaſting Burnings, of a Gnawing Worm that never ceaſes, and of being Tormented in a Burn<g ref="char:EOLhyphen"/>ing Lake with Fire and Brimſtone Day and Night for ever.</hi>
+            </p>
+            <p>Now if this be ſo, what imaginary ne<g ref="char:EOLhyphen"/>ceſſity can there be for an <hi>Apparition,</hi> or any ones riſing from the <hi>Dead</hi> to confirm theſe things: Certainly nothing does, or can exaggerate the wooful condition of Dam<g ref="char:EOLhyphen"/>ned Creatures with greater Circumſtances of Horror then the Scriptures do; and conſidering the Authority they are delive<g ref="char:EOLhyphen"/>red by, they are ſufficient to convince the moſt confident and daring Sinner, ſo as to caſt him into <hi>Belſhaazar</hi>'s <hi>Tremblings and Convulſions;</hi> and if there may be any who can hear <hi>theſe Terrors of the Lord</hi> with Indif<g ref="char:EOLhyphen"/>ference or Unconcernedneſs, or conceive them worſe in their Deſcription, then they
+<pb n="14" facs="tcp:44392:13"/>really are; ſuch Perſons are Scripture proof, they are above <hi>Moſes</hi> and the <hi>Prophets,</hi> our <hi>Bleſſed Saviour</hi> and <hi>his Apoſtles;</hi> neither would they be perſuaded <hi>tho' one roſe from the Dead;</hi> for I dare be poſitive in this, <hi>that no Ghoſt or Apparition</hi> will ever have any effect upon that Man, whom the greateſt Promiſes, the ſtrongeſt Arguments, the moſt affectionate Perſuaſions, and the moſt dread<g ref="char:EOLhyphen"/>ful Threatnings cannot prevail with to Re<g ref="char:EOLhyphen"/>pent; and if I am unwilling to affirm that 'tis impoſſible there ſhould be ſuch a thing as an <hi>Apparition,</hi> yet I am ſure they are un<g ref="char:EOLhyphen"/>neſſary: And thoſe Perſons who are ſo Credulous as to believe them, muſt re<g ref="char:EOLhyphen"/>ſolve to Act without a juſt Warrant from Scripture.</p>
+            <p>I am not in the leaſt inſenſible of the frequent Mentions which are to be found of <hi>Apparitions in Holy Scripture:</hi> But theſe were the Miraculous Works of God, made manifeſt for the Confirmation of his Will, and the Chriſtian Diſpenſation, and ſince this has been ſufficiently Revealed and Con<g ref="char:EOLhyphen"/>firmed to Mankind, <hi>Miracles are Ceaſed.</hi>
+            </p>
+            <pb n="15" facs="tcp:44392:13"/>
+            <p>Some its true diſtinguiſh between things ſtrange and unaccountable,<note place="margin">Glanvil <hi>'s Sadu<g ref="char:EOLhyphen"/>ciſmus,</hi> page 124.</note> and Miracles, and tho' they allow that <hi>Apparitions</hi> are ſtrangle and unaccountable, yet they will not allow them to be Miracles, <hi>for a true Miracle</hi> (<hi>according to Mr.</hi> Glanvil's <hi>Notion</hi>) <hi>muſt be above the Pow<g ref="char:EOLhyphen"/>er of Nature, to Seal and Confirm ſome</hi> Divine Doctrine <hi>in which the good and happineſs of Mankind is contain'd.</hi>
+            </p>
+            <p>But certainly, if the matter of Fact (rela<g ref="char:EOLhyphen"/>ted by Mr. <hi>Glanvil,</hi> as to Major <hi>Sydenham</hi> and Captain <hi>Dyke</hi>) be true, then an <hi>Appari<g ref="char:EOLhyphen"/>tion</hi> may confirm us in ſeveral Fundamen<g ref="char:EOLhyphen"/>tal Doctrines, <hi>as the Being of a God, the Cer<g ref="char:EOLhyphen"/>tainty of a Future State, and the Rewards and Puniſhments of another Life.</hi>
+            </p>
+            <p>And according to the ſame Notion of a <hi>Miracle,</hi> to ſuppoſe an <hi>Apparition</hi> to do thus, is <hi>to ſuppoſe a Miracle; and if Mira<g ref="char:EOLhyphen"/>cles are Ceaſed,</hi> it conſequently follows that <hi>Apparitions</hi> muſt be ſo too, and then the Inference is plain, there can be no farther neceſſity for them, in order to the Refor<g ref="char:EOLhyphen"/>mation of Mankind.</p>
+            <pb n="16" facs="tcp:44392:14" rendition="simple:additions"/>
+            <p>Now the truth of this is Evident from plain Matter of Fact; and they who have uſed that piece of <hi>Necromancy</hi> in Conſulting with the <hi>Dead,</hi> touching Matters of con<g ref="char:EOLhyphen"/>cernment to themſelves or others; have met with this particular Judgment from God, for their Indirect and Unwarranta<g ref="char:EOLhyphen"/>ble Practiſes; that they have <hi>grown more Ob<g ref="char:EOLhyphen"/>ſtinate</hi> and <hi>Hardned</hi> in their Impieties, till at length they have been drove to the ut<g ref="char:EOLhyphen"/>moſt <hi>Horror</hi> and <hi>Deſpair:</hi> There are ſeveral Inſtances in <hi>Scripture</hi> to this purpoſe.</p>
+            <p>I begin with <hi>Saul,</hi> who applys himſelf to the <hi>Witch of Endor,</hi> and muſt needs have <hi>Samuel</hi> raiſed from the <hi>Dead</hi> to Inform him of ſome things wherein he was not ſatisfied; and here I ſhall not enter into a Diſpute, whether the true <hi>Samuel</hi> appeared (tho' I believe it was not, and moſt Expoſitors are of the ſame Opinion,) it being never known that any of the <hi>Prophets</hi> were ſubject to ſuch Diabolical Conjurations.</p>
+            <p>However, we find that <hi>Saul</hi> believes the <hi>Spirit</hi> appearing in the Form of <hi>Samuel,
+<pb n="17" facs="tcp:44392:14"/>to be Samuel</hi> indeed, and therefore <hi>Saul</hi> be<g ref="char:EOLhyphen"/>haves himſelf with all poſſible respectful<g ref="char:EOLhyphen"/>neſs, bows down before him and ſo pro<g ref="char:EOLhyphen"/>pounds his doubts.</p>
+            <p>But alaſs! He was ſo far from being informed of any thing that was material; ſo far from being reduced to Obedience by what he either ſaw or heard from the <hi>Spirit, Ghoſt,</hi> or <hi>Apparition;</hi> that he became more confirmed in his Obſtinacy and Re<g ref="char:EOLhyphen"/>bellion againſt God: Inſomuch that ſome are of opinion, that for this very <hi>Tranſ<g ref="char:EOLhyphen"/>greſſion</hi> he was at length cut off.</p>
+            <p>But leaſt <hi>Saul</hi>'s wickedneſs ſhould be thought to have obſtructed the procee<g ref="char:EOLhyphen"/>ding; and that ſome may thereupon be induced to think it may prove otherwiſe, where God gives the opportunity of do<g ref="char:EOLhyphen"/>ing it; I ſay, notwithſtanding ſuch Eva<g ref="char:EOLhyphen"/>ſions, common Experience ſhews the con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>And altho' we read of our <hi>Bleſſed Savi<g ref="char:EOLhyphen"/>ours</hi>
+               <pb n="18" facs="tcp:44392:15"/>raiſing <hi>Lazarous, after he had been dead four Days,</hi> yet the <hi>Scribes</hi> and <hi>Phariſees</hi> were ſo for from being affected with it, ſo far either from believing in <hi>Chriſt,</hi> or obeying his Commands, that they conſulted how to <hi>put him to Death.</hi>
+            </p>
+            <p>Thus alſo when <hi>Herod</hi> had beheaded St. <hi>John the Baptiſt,</hi> and came to hear of the fame of <hi>Jeſus,</hi> he preſently concludes with himſelf that St. <hi>John Baptiſt</hi> was riſen from the <hi>Dead;</hi> which altho' it was falſe, yet <hi>Herod</hi> believed it was true; and altho' he was perſuaded that St. <hi>John</hi> was riſen, and that God had ſignally atteſted the Horrid Wickedneſs of the One, and the Real Inno<g ref="char:EOLhyphen"/>cency of the Other, yet notwithſtanding all this, <hi>Herod</hi> continued in thoſe very Sins which St. <hi>John the Baptiſt</hi> reprov'd him for before. <hi>Nay, our Bleſſed Saviour himſelf dy<g ref="char:EOLhyphen"/>ed and roſe again,</hi> and yet the <hi>Chief Prieſts</hi> and <hi>Elders</hi> of the <hi>Jews</hi> (inſtead of being wrought upon thereby) endeavoured by the moſt ſubtile Devices to aboliſh the very Memory and Report of his Reſurrection.</p>
+            <pb n="19" facs="tcp:44392:15"/>
+            <p>Thus you ſee how ineffectual extraor<g ref="char:EOLhyphen"/>dinary Means are, when Men have hard<g ref="char:EOLhyphen"/>ned themſelves againſt all Impreſſions from <hi>Divine Revelation;</hi> and I dare make this Challenge to any Man, whoſe Reading or Obſervation can inform him, of any that have been made true Converts <hi>Appariti<g ref="char:EOLhyphen"/>ons</hi> from the <hi>Dead.</hi>
+            </p>
+            <p>I know the <hi>Popiſh Legends</hi> and other Wri<g ref="char:EOLhyphen"/>tings of that kind, mention very ſtrange Effects produced in the Living by <hi>Appa<g ref="char:EOLhyphen"/>ritions</hi> from the <hi>Dead;</hi> but the Vanity and Impoſture of ſuch Reports is ſo No<g ref="char:EOLhyphen"/>torious, that it would give them ſome kind of Credit to attempt a ſett and in<g ref="char:EOLhyphen"/>duſtrious Refutation of them; and there<g ref="char:EOLhyphen"/>fore I ſhall haſten to the laſt thing pro<g ref="char:EOLhyphen"/>poſed, and that is to ſhew the inconſiſtency of the Suppoſition with Reaſon.</p>
+            <p n="3">
+               <hi>3dly,</hi> To grant there may be ſuch a thing as the <hi>Apparition of a Deceaſed Per<g ref="char:EOLhyphen"/>ſon,</hi> yet no Man (I preſume) will deny but it is God's Prerogative and peculiar
+<pb n="20" facs="tcp:44392:16"/>Priviledge to <hi>Faſhion and Compoſe</hi> a Man; and every Man from the firſt Creation till the Diſſolution of all things, is the undeniable Work of his Hand: <hi>For it is he that has made us and not we our ſelves, his Eyes beheld our Subſtance when imperfect, and in his Book (and his alone) are all our Menbers written.</hi>
+            </p>
+            <p>Now if to Create, is God's peculiar <hi>Pri<g ref="char:EOLhyphen"/>viledge?</hi> If nothing of an Inferior Being can pretend to it? If Death makes a real <hi>Diviſion</hi> and <hi>Separation</hi> both of <hi>Soul</hi> and <hi>Body,</hi> by the <hi>ſpecial Appointment</hi> and <hi>De<g ref="char:EOLhyphen"/>ſignation</hi> of God himſelf, and ſuch a <hi>Di<g ref="char:EOLhyphen"/>ſolution</hi> that the <hi>Body</hi> returns to <hi>Duſt, Cor<g ref="char:EOLhyphen"/>ruption</hi> and <hi>Putrefaction,</hi> and the <hi>Soul</hi> is taken into the ſafe <hi>Cuſtody</hi> of <hi>Angels,</hi> who are to anſwer for it and Conduct it to that <hi>State,</hi> either of <hi>Happineſs,</hi> or <hi>Miſery,</hi> where it is to remain till the <hi>Reſurrection;</hi> yet there can be no reaſon to think (ſuppoſing there may be an <hi>Apparition</hi>) that this <hi>Apparition</hi> ſhould conſiſt of the <hi>ſame</hi> Body and Soul which did belong to the <hi>Deceaſed Perſon;</hi> becauſe
+<pb n="21" facs="tcp:44392:16"/>it is Gods Prerogative only, to <hi>Create and <g ref="char:V">Ʋ</g>nite</hi> the Body and Soul of Man; and the ſame Body and Soul being once diſ<g ref="char:EOLhyphen"/>ſolv'd and ſeparated by Death, are <hi>conſi<g ref="char:EOLhyphen"/>ned</hi> by the Wiſe Order and Appointment <hi>of God to their reſpective States</hi> untill <hi>the laſt Trumpet ſound, and Command them to riſe a<g ref="char:EOLhyphen"/>gain;</hi> and therefore as it cannot be with the <hi>ſame</hi> Body and Soul, it is altogether as unlikely it ſhould be with the Body or Soul of any <hi>other</hi> Deceaſed Perſon what<g ref="char:EOLhyphen"/>ever, for the ſame reaſon of <hi>Confinement</hi> already given.</p>
+            <p>And therefore to ſuppoſe there may be an <hi>Apparition,</hi> yet of what can we imagine it ſhould conſiſt? It muſt either conſiſt of <hi>Subſtance</hi> or <hi>Matter,</hi> or elſe it muſt be <hi>Immaterial</hi> and without <hi>Subſtance:</hi> If it con<g ref="char:EOLhyphen"/>ſiſts of <hi>Subſtance</hi> and <hi>Matter,</hi> and conſe<g ref="char:EOLhyphen"/>quently may be Seen, Felt, and Under<g ref="char:EOLhyphen"/>ſtood, why may it not be <hi>ſecured</hi> and <hi>kept</hi> for the Conviction of ſuch as will not be<g ref="char:EOLhyphen"/>lieve there are ſuch Beings; but this was never yet attempted, and therefore I dare
+<pb n="22" facs="tcp:44392:17"/>conclude, that either there can be no ſuch thing at all, or if there be, it muſt be <hi>In<g ref="char:EOLhyphen"/>corporeal</hi> or <hi>Immaterial.</hi>
+            </p>
+            <p>And to ſuppoſe this: How is it likely it ſhould perform the <hi>ſame</hi> operations with <hi>Matereal</hi> and <hi>Corporeal</hi> Beings (as is fre<g ref="char:EOLhyphen"/>quently pretended either by <hi>diſcourſing with, diſcovering</hi> things paſt, or <hi>foretelling</hi> things that are to come.)</p>
+            <p>Or, to ſuppoſe a Point further; that it is neither meerly <hi>Corporeal,</hi> nor yet meerly <hi>Incorporeal.</hi> But (as ſome Philoſophers Ima<g ref="char:EOLhyphen"/>gined) a Being or Exiſtence between both; yet if ſo, how is it likely it ſhould ſo nearly reſemble ſuch a Being, as was both <hi>Material</hi> and <hi>Immaterial,</hi> and as ſuch con<g ref="char:EOLhyphen"/>ſiſted both of <hi>Soul</hi> and <hi>Body;</hi> for if it be <hi>Incorporeal,</hi> it muſt neceſſarily be <hi>Immate<g ref="char:EOLhyphen"/>rial,</hi> and if it is <hi>Immaterial,</hi> it muſt as ne<g ref="char:EOLhyphen"/>ceſſarily be <hi>Inviſible,</hi> and if ſo, the Contro<g ref="char:EOLhyphen"/>verfie is at an end.</p>
+            <pb n="23" facs="tcp:44392:17"/>
+            <p>But to beg your Patience a while lon<g ref="char:EOLhyphen"/>ger; according to the Platonick Hypotheſis, <hi>Spirits are Embodied;</hi>
+               <note place="margin">
+                  <hi>Mr.</hi> Locks <hi>Hu<g ref="char:EOLhyphen"/>mane Underſtanding</hi> page 162. Book 2d. Chap. 23.</note> and altho' a very ingenious Perſon ſeems to think that <hi>Spirits</hi> can aſſume to themſelves Bodies of <hi>different</hi> Figure and Conformation of Parts; yet the ſame Perſon as ingeniouſly confeſſes, 'tis but a meer Conjecture, owns that he can give no manner of Reaſon for it, but com<g ref="char:EOLhyphen"/>mon Report; and is ſo far from impoſing it upon the World, that he calls it his own extravagant Opinion.</p>
+            <p>Hiſtorians I am ſenſible make frequent mention of the <hi>Miracles of Magicians,</hi> and ſeveral other Unaccountable Prodigies by In<g ref="char:EOLhyphen"/>viſible Powers <hi>and wicked Spirits;</hi> thus they tell us, that not only <hi>the time, but the place of</hi> Ceſars <hi>Death</hi> was fortold to <hi>Pompey</hi> and <hi>Craſſus;</hi> but as this happen'd in a little time after, ſo it was as much expected as it was foretold, as <hi>Tully</hi> witneſſes, <hi>lib.</hi> 2. <hi>de Divinatione.</hi>
+            </p>
+            <pb n="24" facs="tcp:44392:18"/>
+            <p>And altho' ſome of their Predictions might happen to be true, yet this muſt be ſuppos'd in Common Reaſon, to hap<g ref="char:EOLhyphen"/>pen but by Chance, becauſe they ſo of<g ref="char:EOLhyphen"/>ten failed; which can be owing to nothing <hi>more then the over-ruling Power and Provi<g ref="char:EOLhyphen"/>dence of God who bringeth the Councels of the Heathens to naught, and maketh their Devices to be of none effect.</hi> thus <hi>Demoſthenes confeſ<g ref="char:EOLhyphen"/>ſed that the Delphian Oracle</hi> was determined by <hi>Philip</hi> of <hi>Macedon,</hi> and their Corruption is clearly taken notice of in ſeveral other Authors.</p>
+            <p>Euſebius <hi>Prepar. lib.</hi> 4. ſhews that ſeveral of the Heathen Prieſts publickly confeſſed the Impoſtures of their <hi>Oracles,</hi> and that their Confeſſions have been, if they are not ſtill upon Record; and as the World increaſed in Knowledge, they were rejected and laid aſide: For as ſoon as Light and Immortality became diſcovered by the Pow<g ref="char:EOLhyphen"/>er of the Goſpel, they were viſibly ſlighted and diſregarded till at length they became deſpicable every day more and more.</p>
+            <pb n="25" facs="tcp:44392:18"/>
+            <p>I make no doubt but there have been <hi>Apparitions,</hi> as in the ſeveral forementioned Inſtances from Scripture for Ends and Deſigns beſt known to God, as perhaps for the Manifeſtation of his Power and Wiſdom, of his Love and Goodneſs to Mankind; but I cannot ſee the leaſt rea<g ref="char:EOLhyphen"/>ſon why or how, there ſhould or can be any ſuch in theſe times; Since <hi>Miracles are Ceaſed, Gods ways are ſufficiently known upon the Earth, and his ſaving Health a<g ref="char:EOLhyphen"/>mongſt all Nations.</hi>
+            </p>
+            <p>For as God cannot propoſe any thing conſiderable to Mankind, (as to the Reve<g ref="char:EOLhyphen"/>lation of his Will and Pleaſure here, or his Rewards and Puniſhments in the other Life) either by raiſing the <hi>Dead,</hi> or ſuffe<g ref="char:EOLhyphen"/>ring or permitting an <hi>Apparition,</hi> (as has been already ſhewn) ſo neither can I think, that any other Being has Power to do it. for altho' the <hi>Devil</hi> had a Power once given <hi>him to Metamorphoſe and take ſtrange ſhapes upon</hi> him, (<hi>as he did to Eve in the ſhape of a Serpent</hi>) yet it does not follow
+<pb n="26" facs="tcp:44392:19"/>that he has the ſame Power to do ſo ſtill; and altho' God might permit and ſuffer it in thoſe times, and likewiſe <hi>Eve</hi> to be tempted by him, (perhaps to bring about that profound Myſtery of his Love, the Incarnation and Crucifixion of our Bleſſed Saviour,) yet ſince the Coming of our <hi>Saviour</hi> into the World, (according to that Prediction of him) <hi>the Seed of the Woman has bruiſed the Serpents Head,</hi> the Power <hi>of Satan is deſtroyed, and his Kingdom is at an End, and thanks be to God who has given us the Victory through our Lord and Saviour Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>God has eng<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged himſelf by a ſolemn Pro<g ref="char:EOLhyphen"/>miſe to us, in the firſt Epiſtle to the Corin<g ref="char:EOLhyphen"/>thians,</hi> chap. 10. <hi>that no temptation ſhall be<g ref="char:EOLhyphen"/>fall us, but ſuch as is common to Man, and more over that he will not ſuffer us to be tempted above that we are able.</hi>
+            </p>
+            <p>Now, if this be ſo, it cannot be in the Power of <hi>Satan</hi> or any of his <hi>Agents</hi> to make any extraordinary Aſſaults upon us
+<pb n="27" facs="tcp:44392:19"/>without our own Concurrence; and altho' ſome Perſons do pretend to Praeternatural and Extraordinary Temptations; I dare be poſſitive this is more owing to their <hi>own</hi> Wickedneſs, and Debaucheries, then to any thing elſe beſides.</p>
+            <p>For, when Men have once thrown a<g ref="char:EOLhyphen"/>ſide Religion, turned God himſelf out of their thoughts, and make no ſcruple to commit Evil, 'tis no wonder God ſhould have done with them, that he ſhould leave them to a Reprobate Mind, till at length they believe a Lye. But then on the o<g ref="char:EOLhyphen"/>ther hand <hi>whilſt Men are careful to order their</hi> Converſation <hi>as becomes the Goſpel of Jeſus Chriſt,</hi> the <hi>Devil</hi> can have no Power over them. But if this be the leaſt of all their thoughts, they grow reſtleſs and un<g ref="char:EOLhyphen"/>eaſie, ſubject to the groſeſt Superſtitions, wild and unſettled in their Heads, till at length they fall into downright Atheiſm.</p>
+            <p>I plainly ſee two Objections that will be offered againſt what I have here ſaid,
+<pb n="28" facs="tcp:44392:20" rendition="simple:additions"/>which I think it needfull to Anſwer, before I conclude.</p>
+            <p n="1">
+               <hi>1ſt.</hi> Some will ſay 'tis a piece of very ill breeding to diſprove what has been Aſ<g ref="char:EOLhyphen"/>ſerted and Atteſted by very many Perſons of good Integrity and Senſe.</p>
+            <p n="2">
+               <hi>2dly,</hi> Others again will ſay that I have gratified the Devil in one main Point of his Controverſie with us, whoſe Policy it is to Propagate the Unbelief of <hi>Apparitions,</hi> whoſe Conceſſion Infers his Exiſtence; and if no <hi>Apparitions,</hi> then no <hi>Devil.</hi>
+            </p>
+            <p>To the Firſt I Anſwer, that multiplicity of Opinions cannot Defend and Secure us from being impos'd upon. For to ſup<g ref="char:EOLhyphen"/>poſe any thing true, only becauſe a Mul<g ref="char:EOLhyphen"/>titude does Atteſt it, is to ſuppoſe Who<g ref="char:EOLhyphen"/>ring or Defrauding juſtifiable, becauſe ſo many in theſe times delight in the One, and practice the Other.</p>
+            <pb n="29" facs="tcp:44392:20"/>
+            <p>As it was in the Days of Old, ſo many will not be perſuaded to believe ſuch things as may be any ways diſagreeable to their firſt Notions and Apprehenſions of things. But certainly this can be no Argument of Truth, for altho' many have hitherto been impoſed upon, yet it does not follow but that many more may be ſo again.</p>
+            <p>How many were deluded by the Prieſts of <hi>Baal</hi> into the Belief of Southſaying, and many other ſuperſtitious Idolatries? How groſly were the <hi>Romans</hi> impos'd upon by <hi>Junius Proculus</hi> one of the Chief of their Nobili<g ref="char:EOLhyphen"/>ty? who, (Notwithſtanding <hi>Romulus</hi> had been torn in pieces in the Senate Houſe,) ſwore that he was taken up among the Gods, and that he had appeared particular<g ref="char:EOLhyphen"/>ly to him, and commanded him to tell the People that it was the pleaſure of the Immortal Gods to have him continue a<g ref="char:EOLhyphen"/>mong Mankind, till he had founded a City whoſe Empire and Glory ſhould far ſur<g ref="char:EOLhyphen"/>paſs all others; and that he would always be a Propitious God to them, under the Name of <hi>Quirinus.</hi>
+            </p>
+            <pb n="30" facs="tcp:44392:21"/>
+            <p>And thus likewiſe in ſome Chriſtian Churches (if all be true that is reported) there are very ſtrange deceptions, ſome whereof are ſtill confeſſed by the Name of Pious Fraud.</p>
+            <p>
+               <hi>Theudas</hi> an Impoſtor led away four Thouſand Perſons in the Wilderneſs, and the Deluſions of <hi>Mahomet</hi> almoſt the fourth part of Mankind; all <hi>Hereſies</hi> how groſs ſoever, have found a Welcome with the People.</p>
+            <p>Thus many of the <hi>Jews</hi> were wrought into a Belief that <hi>Herod</hi> was the <hi>Meſſias;</hi> and how many in theſe times of the more <hi>inferior ſort of People,</hi> are openly and daily deluded by <hi>Fortune-tellers, Juglers,</hi> and <hi>other incantatory Impoſtors;</hi> unto whom (which is very deplorable in Chriſtians) too many apply themſelves between Jeſt and Earneſt, till at length they are prevailed with to quit the Truth, and being once deceived themſelves, they muſt needs be ſubject to very great Miſtakes and Errors.</p>
+            <pb n="31" facs="tcp:44392:21"/>
+            <p>But beſides all this, there are others who (who out of a ſupine careleſsneſs and neg<g ref="char:EOLhyphen"/>lect of Enquiry even of ſuch Matters where<g ref="char:EOLhyphen"/>of they doubt themſelves) are yet willing to believe many things rather then be at the trouble and difficulty of Examining them; and either from an Unactive Temper of Mind to put in Execution the Dictates and Suggeſtions of their own Reaſon, or elſe by a ſtrange Kind of contentment and ac<g ref="char:EOLhyphen"/>quieſceny in every Species of Truth, they readily embrace the leaſt Shadow there<g ref="char:EOLhyphen"/>of.</p>
+            <p>But certainly had our Fore-Fathers ſate down and taken up ſuch Reſolutions, the Face of Truth had been abundantly more obſcur'd then now it is.</p>
+            <p n="2">
+               <hi>2dly,</hi> To the other Objection it may be Anſwered that I have not any where deny'd the Being of <hi>Sprits;</hi> and how ſtrange ſo<g ref="char:EOLhyphen"/>ever it may ſeem to ſome, that I can<g ref="char:EOLhyphen"/>not believe there are <hi>Apparitions,</hi> yet I de<g ref="char:EOLhyphen"/>ſire ſuch Perſons to conſider, how de<g ref="char:EOLhyphen"/>ſtructive
+<pb n="32" facs="tcp:44392:22" rendition="simple:additions"/>the Belief of them has been for ſeveral Ages to the Chriſtian Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>For upon what elſe but ſuch pretended <hi>Apparitions</hi> and <hi>Revelations</hi> do the <hi>Papiſts</hi> ground their <hi>Purgatory and Prayers for the Dead;</hi> and very much of the ſame ſtrain are thoſe pretended <hi>Infuſions of New Lights and Enthuſiaſtick Inſpirations from another ſort of People.</hi>
+            </p>
+            <p>Now, ſince <hi>Almighty God</hi> has been pleas'd to Reveal every thing needful to be known by us, in the <hi>Holy Scriptures,</hi> both as to our chief Intereſt, and Duty in this pre<g ref="char:EOLhyphen"/>ſent World; it rather concerns us to ſhew ourſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves truly thankful for, and humbly to acquieſce in ſo gratious a <hi>Revelation,</hi> than to raiſe any farther Scruples or Doubts concerning any <hi>one</hi> thing that is contain'd in it.</p>
+            <p>And if Men could but once be prevai<g ref="char:EOLhyphen"/>led upon for to Act thus, we ſhould be
+<pb n="33" facs="tcp:44392:22"/>be abundantly convinc'd of the Truth and Certainty of <hi>a Future State</hi> and <hi>the Rewards and Puniſhments</hi> of another Life, without mo<g ref="char:EOLhyphen"/>leſting or diſturbing the <hi>Dead,</hi> to make proof of it.</p>
+            <p>Has not the Prophet <hi>Daniel</hi> above two Thouſand Years ago? <hi>Chap.</hi> 7.9. diſcovered as much to us by what the <hi>Almighty was pleas'd to ſhew him in a Viſion, when his Throne was like a fiery Flame, when Thou<g ref="char:EOLhyphen"/>ſands Thouſands miniſtred unto him, and ten Thouſand times ten Thouſand ſtood before him, when the Judgment was ſet, and the Books were opened.</hi>
+            </p>
+            <p>And has not the ſame <hi>Prophet</hi> told us farther? Chap. 12.2. <hi>that they who ſleep in the Duſt of the Earth, ſhall riſe ſome to e<g ref="char:EOLhyphen"/>verlaſting Life, and ſome to Everlaſting Shame and Contempt.</hi>
+            </p>
+            <p>And how often are we told in the <hi>New Teſtament? That God will render unto every One according to his Works.</hi>
+            </p>
+            <pb n="34" facs="tcp:44392:23"/>
+            <p>Has not St. <hi>Paul</hi> deſcended farther, ſpe<g ref="char:EOLhyphen"/>cified the very time, and given all Ima<g ref="char:EOLhyphen"/>ginable ſatisfaction and poſitive <hi>Aſſurance</hi> that the Heart of Man can reaſonably deſire, as to the Caſe before us? When he tells us, <hi>God has appointed a Day in which he will Judge the World in Righteouſneſs, by that Man whom he hath ordained, where<g ref="char:EOLhyphen"/>of he hath given aſſurance unto all Men, in that he hath raiſed him from the Dead.</hi>
+            </p>
+            <p>I might lay before you, many other pla<g ref="char:EOLhyphen"/>ces of <hi>Scripture</hi> to the ſame purpoſe, which I muſt needs omit, leaſt I ſhould exceed the narrow Proportion of a Letter; who<g ref="char:EOLhyphen"/>ever has a mind to ſee theſe at large, may have full ſatisfaction, from the lear<g ref="char:EOLhyphen"/>ned Dr. <hi>Scot,</hi> in his <hi>Chriſtian Life,</hi> and Dr. <hi>Sherlock</hi> in his Treatiſe of a <hi>Future Judgment.</hi>
+            </p>
+            <p>And altho' our chief Evidence for Proof of a <hi>Future State,</hi> does depend on <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> yet thoſe Perſons who will queſtion
+<pb n="35" facs="tcp:44392:23"/>the <hi>Scriptures</hi> in a point of ſo great <hi>Mo<g ref="char:EOLhyphen"/>ment,</hi> will queſtion any thing,</p>
+            <p>That <hi>Almighty God</hi> in a thing of ſo great Importance, has not left himſelf with<g ref="char:EOLhyphen"/>out witneſs to all the World, will appear upon theſe two accounts.</p>
+            <p>Firſt, <hi>By conſidering the Nature of God.</hi>
+            </p>
+            <p>Secondly, <hi>By conſidering the Nature of Man.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> By conſidering the Nature of <hi>God</hi> himſelf, who is an Omnipotent, Power<g ref="char:EOLhyphen"/>ful, and Wiſe Being, which appears by the bare Work of his Creation: He re<g ref="char:EOLhyphen"/>gards not the Actions of his People (<hi>whom he hath made</hi>) ſo as to have only a Naked ſpe<g ref="char:EOLhyphen"/>culative Knowledg of them, but with an Eye of <hi>Providence and Judgment;</hi> he does not meerly gaze upon us, as an indiffe<g ref="char:EOLhyphen"/>rent and unconcerned Spectator, but be<g ref="char:EOLhyphen"/>holds and views us with the higheſt con<g ref="char:EOLhyphen"/>cernment; either with Infinite Complacency, or Deteſtation.</p>
+            <pb n="36" facs="tcp:44392:24"/>
+            <p>And what can we imagine all this ſhould be for? But in order to be produced ei<g ref="char:EOLhyphen"/>ther for or againſt us, whenſoever he ſhall be pleas'd to call us to an Account, that ſo he may diſtribute his Rewards or Pu<g ref="char:EOLhyphen"/>niſhments accordingly; this <hi>Solomon</hi> clearly Determines, <hi>Eccleſ.</hi> 12.14. <hi>he will bring e<g ref="char:EOLhyphen"/>very Work into Judgment, with every ſecret thing.</hi> And if there are any, who will not be perſuaded as to the truth of this, on<g ref="char:EOLhyphen"/>ly becauſe God has ſpoken it, <hi>who is not a Man, that he ſhould lye, nor the Son of Man, that he ſhould Repent;</hi> there will be a time when with <hi>Shame and Confuſion of face they ſhall be forced to confeſs, Righte<g ref="char:EOLhyphen"/>ous art thou Oe Lord, and true are all thy Judg<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>Almighty God is not only a Powerful and Omnipotent Being, but Truth and Ju<g ref="char:EOLhyphen"/>ſtice are Attributes as Eſſential to him as any other; and if God be Juſt, he muſt needs do Juſtice to every Perſon, for <hi>ſhall not the Judge of all the World do right?</hi> And if he does not diſtribute this Juſtice for
+<pb n="37" facs="tcp:44392:24"/>the preſent, it unavoidably follows that it muſt be done hereafter, and that the di<g ref="char:EOLhyphen"/>ſpenſations of his Providence, are in many things promiſcuous and <hi>uncertain</hi> now, is an invincible Argument of the Great <hi>Certainty</hi> of a <hi>Future State.</hi>
+            </p>
+            <p n="2">
+               <hi>2dly,</hi> This Truth will apear farther, by conſidering the <hi>Nature of Man.</hi>
+            </p>
+            <p>The very Nature and Condition of <hi>Man,</hi> ſhews him to be a Creature that muſt give an Account of himſelf hereafter; this the <hi>Scriptures</hi> are poſitive in, and there<g ref="char:EOLhyphen"/>fore St. <hi>Paul</hi> tells us, <hi>Rom.</hi> 14.12. <hi>Eve<g ref="char:EOLhyphen"/>ry one muſt give an Account of himſelf to God.</hi>
+            </p>
+            <p>But beſides the <hi>Scripture,</hi> Reaſon will make out as much, for as Man was Cre<g ref="char:EOLhyphen"/>ated in time, his Creation muſt needs ar<g ref="char:EOLhyphen"/>gue ſome Deſign in the Creator, and as Man was endued with Reaſon; it is but rational to think, that he ſhould be alſo Accountable to his Creator, how far he
+<pb n="38" facs="tcp:44392:25"/>has anſwered the Deſign of his Creation, either here, or hereafter; this has been Univerſally conſented too by Mankind.</p>
+            <p>That Almighty God does not permit and ſuffer his Servants upon their depar<g ref="char:EOLhyphen"/>ture out of this <hi>World,</hi> either to lye ſlee<g ref="char:EOLhyphen"/>ping in the <hi>Duſt,</hi> or to be hovering about unrewarded to the End of it: But as ſoon as they have finiſhed their Work upon Earth; he either admits them to the Joy of their Maſter, <hi>i. e.</hi> to all the Felicities, that their ſeparated <hi>Spirits</hi> are capable of, in thoſe ſeveral Degrees and Meaſures of <hi>Perfection</hi> which they have arrived to: Or elſe diſmiſſes them into a State of Miſery and Horror, where they are to re<g ref="char:EOLhyphen"/>main during their ſeparation from the Body, expecting the farther Completion of their Happineſs or Miſery by a Gene<g ref="char:EOLhyphen"/>ral <hi>Reſurrection;</hi> is ſufficiently atteſted by the <hi>Primitive Sages</hi> of the <hi>Church,</hi> as <hi>Irene<g ref="char:EOLhyphen"/>us, Tertullian, Clemens,</hi> St. <hi>Chryſoſtome,</hi> and many others; plainly Intimating that the Souls of the Righteous after Death, are
+<pb n="39" facs="tcp:44392:25" rendition="simple:additions"/>kept in proper Receptcles, enjoying certain Degrees either of Happineſs, or Miſery, till the Day of the <hi>Reſurrection.</hi> This is called in <hi>Scripture</hi> ſometimes by the <hi>Name of Paradiſe,</hi> ſometimes by the <hi>Name of</hi> Abra<g ref="char:EOLhyphen"/>ham's <hi>Boſome.</hi>
+            </p>
+            <p>And the Souls of the Righteous are ex<g ref="char:EOLhyphen"/>preſly ſaid to be <hi>ſuſtinentes Reſurrectionem, eternitatis candidati,</hi> i. e. waiting with a ſo<g ref="char:EOLhyphen"/>licitous expectation for the Reſurrecti<g ref="char:EOLhyphen"/>on, and to ſtand Candidates for <hi>Immor<g ref="char:EOLhyphen"/>tality.</hi>
+            </p>
+            <p>And that there is nothing in all this, but what is agreable to <hi>Scripture,</hi> is evi<g ref="char:EOLhyphen"/>dent from <hi>Zachariah,</hi> chap. 9.10, 11. where the Souls of the Righteous, are ſtyled <hi>Pri<g ref="char:EOLhyphen"/>ſoners of hope, lying in the Lake where there is no Water,</hi> i. e. (as ſome interpret) no conſtant Stream of <hi>Joy;</hi> but yet they are ſupported with certain Showers, and farther Illuminations of their Hope.</p>
+            <pb n="40" facs="tcp:44392:26"/>
+            <p>And that the Souls of the Wicked are confined to a State of Miſery<g ref="char:punc">▪</g> St. <hi>Jude</hi> plainly intimates when he tells us, <hi>verſe</hi> 13. <hi>that they are reſerved unto the Blackneſs of Darkneſs.</hi>
+            </p>
+            <p>When St. <hi>Paul</hi> reaſoned with <hi>Felix,</hi> of a Judgment to come, it made him trem<g ref="char:EOLhyphen"/>ble; and that the Common Heathens them<g ref="char:EOLhyphen"/>ſelves were convinc'd of as much, appears from their Notions (which are ſtill upon Record) of <hi>Minos, Eacus, &amp; Rhadamanthus:</hi> And with what Artificial and plauſible pre<g ref="char:EOLhyphen"/>tences ſoever, Men may ſeem and endea<g ref="char:EOLhyphen"/>vour to Colour over their Debauche<g ref="char:EOLhyphen"/>ries, yet 'tis not in their Power to drown or ſtifle the Clamours of their Conſciences, which will ſuggeſt what they muſt expect hereafter.</p>
+            <p>Let us then reſolve with a Holy So<g ref="char:EOLhyphen"/>briety and Religious Prudence, (inſtead of queſtioning) to confine our hopes and deſires only to be directed by the written <hi>Word of God;</hi> which is every way fitted
+<pb n="41" facs="tcp:44392:26"/>and proportioned for the regulating our Lives, in order to that Great End <hi>of ma<g ref="char:EOLhyphen"/>king us wiſe unto Salvation,</hi> and if we have ſuch a certain Rule, propos'd to us, will it not argue the moſt monſtrous Vanity, and unaccountable Perverſneſs, to depart from it.</p>
+            <p>And if Men will not believe that there is a <hi>God,</hi> and a <hi>Future State</hi> of Rewards and Puniſhments, without an <hi>Apparition</hi> or ſome New <hi>Revelation,</hi> they are <hi>never</hi> like to have it.</p>
+            <p>For God has no where undertaken to gratifie the vain deſires and peeviſh Incli<g ref="char:EOLhyphen"/>nations of his People; he has ſufficiently provided for their Welfare and Happineſs, both by Nature and <hi>Revelation;</hi> and it is not from any thing but the want of a mo<g ref="char:EOLhyphen"/>deſt and humble Submiſſion thereunto, that ſo many grow wild and unſettled in their Heads, that they are always gadding after <hi>New Diſcoveries</hi> and <hi>Revelations;</hi> and for all thoſe that will not be ſaved, un<g ref="char:EOLhyphen"/>leſs
+<pb n="42" facs="tcp:44392:27"/>it be according to their own Way and Method of Invention, how Inſulting or Atheiſtically ſoever they may carry it for the preſent, yet there will be a <hi>time when they ſhall be forced to lye down in their own Shame, and to cover themſelves with their own Confuſion.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Sermon Preach'd at the Funeral of Mrs. <hi>Bullivant,</hi> Who was Barbarouſly Murder'd by <hi>Edmund Eudley.</hi> By <hi>B. Crooke,</hi> A. M. Rector of St. <hi>Michael Woodſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
